@@ -1,0 +1,11 @@
+<svg
+            width="36"
+            height="36"
+            viewBox="0 0 36 36"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path d="M35.1415 0H17.5703V17.5118H35.1415V0Z" fill="#FF0000" />
+            <path d="M35.1415 17.5118H17.5703V35.0235H35.1415V17.5118Z" fill="#FFCC00" />
+            <path d="M17.5711 0H0V17.5118H17.5711V0Z" fill="black" />
+          </svg>
